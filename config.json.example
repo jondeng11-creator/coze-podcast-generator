@@ -1,0 +1,5 @@
+{
+  "pat": "在此填入你的 Coze 个人访问令牌（以 pat_ 开头）",
+  "workflow_id": "在此填入工作流 ID（URL 中 workflow_id= 后的数字）",
+  "space_id": "在此填入空间 ID（URL 中 space_id= 后的数字）"
+}

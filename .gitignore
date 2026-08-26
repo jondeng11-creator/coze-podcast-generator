@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 真实凭证（绝不入库，只保留 .example 模板）
+config.json
+
+# 生成产物
+*.mp3
+*.wav
+
+# 系统
+.DS_Store
+Thumbs.db
