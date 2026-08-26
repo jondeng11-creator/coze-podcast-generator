@@ -14,6 +14,17 @@
 
 ---
 
+## 📦 怎么安装
+
+| 方式 | 适合谁 | 怎么做 |
+|---|---|---|
+| **SkillHub 一键装**（推荐） | 只想用、不想碰代码 | 打开 SkillHub → 搜索 **`coze-podcast-generator`** → 安装即可，无需 clone |
+| **GitHub clone** | 想看源码 / 二次开发 | `git clone https://github.com/jondeng11-creator/coze-podcast-generator.git` |
+
+> SkillHub 安装后，AI 助手会自动读取 `SKILL.md` 指令，你直接对它说"把这篇文章做成播客"就行。
+
+---
+
 ## 📋 使用前准备（一次性）
 
 使用本技能**必须**先在 Coze 上搭好一个「语音播客」工作流，并拿到 3 个凭证：
