@@ -138,3 +138,9 @@ coze-podcast-generator/
 | 版本 | 日期 | 说明 |
 |---|---|---|
 | v1.0 | 2026-08-26 | 首发：文字 → 双主播对谈 MP3（无 BGM 纯净版）；含 SKILL.md / README / 脚本 / Coze 搭建教程；支持环境变量与 config.json 两种凭证方式 |
+
+---
+
+## 📄 开源协议
+
+本项目基于 [MIT License](LICENSE) 开源，可自由使用、修改、再分发，只需保留版权声明与原许可声明。
